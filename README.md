@@ -1,5 +1,5 @@
 # Adverce_Event_OpenFDA_Exploratory_Data_Analysis
-This repository is to analyse adverse event data from openFDA
+This repository is for the analysis of the adverse event data from openFDA
 
 ## This repository includes the following files:
 
