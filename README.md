@@ -8,3 +8,4 @@ This repository is to analyse adverse event data from openFDA
 * OpenFDA an innovative platform providing access to a wealth of FDA’s publicly available data is a paper for describing OpenFDA platform
 * FDA Adverse Event Reporting System (FAERS) Public Dashboard is a ppt downloaded from OpenFDA which has brief but comprehensive introduction of openFDA data and dashboard
 * Data Descriptor: A curated and standardized adverse drug event resource to accelerate drug safety research is a paper for providing curated and standardized adverse drug event resource to accelerate drug safety research
+* README.md is this file 
